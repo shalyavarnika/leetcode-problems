@@ -13,7 +13,7 @@ void water(int arr[],int n){
             if(arr[k] > right)
                 right = max(arr[k],right);
         }
-        sum += min(left,right) - arr[i];
+        sum += (min(left,right) - arr[i]);
     }
     cout<<sum<<endl;
 }
