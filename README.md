@@ -1,9 +1,9 @@
-## Algorithms
-- Implement algorithms such as sorting, searching, dynamic programming, divide and conquer techniques
+## Leetcode Solutions
+- [Here is a list of problem questions](https://leetcode.com/problemset/all/).
 - You can use any language of your choice, just add it in the respective directory
 - If no directory exists with your choice of language, create new directory and add program there
 
-**Note : Please don't add executables**
+**Note : This repository accepts solutions to LeetCode problems only from now.**
 
 ## Hacktoberfest
 Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31. Support open source and pick a limited edition T-shirt or plant a tree.
