@@ -15,6 +15,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Ishita](https://github.com/ishitajaiswal4m)
 - [Rachit](https://github.com/rachitjindal56)
 - [Aditi Tiwari](https://github.com/Adititiwari02)
+- [Piyush228](https://github.com/Piyush228)
 
 ## How to contribute
 - Fork this repository
