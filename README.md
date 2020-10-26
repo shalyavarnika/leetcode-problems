@@ -13,6 +13,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [Faisal](https://github.com/faisalAkhtar)
 - [Wasisto](https://github.com/tiramisubliss)
 - [Ishita](https://github.com/ishitajaiswal4m)
+- [Rachit](https://github.com/rachitjindal56)
 
 ## How to contribute
 - Fork this repository
